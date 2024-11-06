@@ -4,6 +4,11 @@
 			"name" : "default",
 			"ip" : "localhost",
 			"port" : 27015
+		},
+		{
+			"name" : "wdw",
+			"ip" : "2.154.160.44",
+			"port" : 27015
 		}
 	]
 }
