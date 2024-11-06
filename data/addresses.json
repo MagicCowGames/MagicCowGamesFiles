@@ -1,0 +1,9 @@
+{
+	"addresses" : [
+		{
+			"name" : "default",
+			"ip" : "localhost",
+			"port" : 27015
+		}
+	]
+}
